@@ -5,7 +5,7 @@ Hello I am Nick.
 Find out more about me through these links:
 [![Linkedin Badge](https://img.shields.io/badge/-Nick%20Miller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholascmiller/)](https://www.linkedin.com/in/nicholascmiller/)
 [![Medium Badge](https://img.shields.io/badge/Nick%20Miller-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@the.nick.miller)](https://medium.com/@the.nick.miller)
-[![Gmail Badge](https://img.shields.io/badge/-nick@example.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miller.nick.c@gmail.com)](mailto:miller.nick.c@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-miller.nick.c@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miller.nick.c@gmail.com)](mailto:miller.nick.c@gmail.com)
 
 ## ⚡ Technologies I Use
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
