@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-Hello I am Nick.
-
 Find out more about me through these links:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholascmiller/)](https://www.linkedin.com/in/nicholascmiller/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@the.nick.miller)](https://medium.com/@the.nick.miller)
