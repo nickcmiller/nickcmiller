@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC.gif" width="100"/>
+</div>
+
 ### Hi there 👋
 Find out more about me through these links:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholascmiller/)](https://www.linkedin.com/in/nicholascmiller/)
@@ -16,9 +20,10 @@ Find out more about me through these links:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=nickcmiller&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickcmiller&hide=TeX&layout=compact) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nickcmiller&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickcmiller&hide=TeX&layout=compact)
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=nickcmiller%2Fnickcmiller&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=nickcmiller%2Fnickcmiller)
