@@ -21,9 +21,5 @@ Find out more about me through these links:
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nickcmiller&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickcmiller&hide=TeX&layout=compact)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickcmiller&layout=compact&theme=vision-friendly-dark)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=nickcmiller%2Fnickcmiller&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=nickcmiller%2Fnickcmiller)
