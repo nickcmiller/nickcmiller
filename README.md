@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="100"/>
-</div>
-
 ### Hi there 👋
 Find out more about me through these links:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholascmiller/)](https://www.linkedin.com/in/nicholascmiller/)
